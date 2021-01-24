@@ -1,11 +1,6 @@
 {
   "Post": {
-    "nama": "string",
-    "createdAt": "date",
-    "kelas": "string"
+    "nama": "Yosie Abdul Muzanil",
+    "posisi": "IT Support"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
 }
