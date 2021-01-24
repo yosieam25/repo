@@ -1,6 +1,6 @@
 {
   "User": {
-    "id": "string"
+    "id": "string",
     "nama": "string",
     "Kelas": "string",
     "createdAt": "date",
