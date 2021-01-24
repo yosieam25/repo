@@ -1,8 +1,8 @@
 {
   "Post": {
-    "title": "string",
+    "nama": "string",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "kelas": "string"
   },
   "Comment": {
     "body": "string",
