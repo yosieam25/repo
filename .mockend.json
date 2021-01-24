@@ -1,8 +1,8 @@
 {
   "Users": {
-    "id": "string",
-    "nama": "string",
-    "Kelas": "string",
-    "createdAt": "date",
+    "id": "01",
+    "nama": "Yosie Abdul Muzanil",
+    "Kelas": "Pemograman",
+    "createdAt": "12-01-2021",
   },
 }
